@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MERI JAAN', 'UPPER DEKHO', 'IN SITARON KO', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'I LOVE', 'YOU', 'MERI JAAN', 'MOTI', 'I MISS YOU']
+  let texts = ['MERI JAAN', 'DEKHO', 'SITARON KO', 'ARE YOU', 'LOOKING AT', 'THE SAME STAR', 'WITH ME ?', 'I LOVE', 'YOU', 'MERI JAAN', 'MOTI', 'I MISS YOU']
 
   let canvas,
     ctx,
